@@ -1,4 +1,4 @@
-package com.tnsif.EntityDemo;
+package EntityDemo;
 
 public class CustomerDemo {
 
